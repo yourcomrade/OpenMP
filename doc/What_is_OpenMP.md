@@ -1,0 +1,3 @@
+# What is OpenMP?
+OpenMP is an API providing multiprocessing for different platforms and architecture based on fork-joined model. OpenMP is available on C, C++ and Fortran, and it is integrated into compilers. It is important to understand that OpenMP is the higher abstraction of creating thread, joining thread, scheduling thread and so on. Here is the image from Wikipedia to understand how OpenMP works  
+![Fork-join model](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Fork_join.svg/1920px-Fork_join.svg.png) 
