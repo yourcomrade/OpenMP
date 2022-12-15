@@ -1,4 +1,4 @@
-#Getting started with parallel computing via OpenMP
+# Getting started with parallel computing via OpenMP
 ### Table of content
 1. [Introduction](doc/Introduction.md)
 2. [Parallelism with threading](doc/Parallelism_with_thread.md)
